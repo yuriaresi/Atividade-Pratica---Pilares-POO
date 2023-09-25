@@ -1,0 +1,20 @@
+{
+  "name": "atividade-pratica---pilares-poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon ./src/index.ts",
+    "1": "nodemon ./src/1.ts",
+    "2": "nodemon ./src/2.ts",
+    "3": "nodemon ./src/3.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.6.5",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
+  }
+}
